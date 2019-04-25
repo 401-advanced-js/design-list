@@ -1,0 +1,7 @@
+- Work in a fork of your “sass-design” repository in your github account
+- Create a new component called List with the following requirements:
+- Accepts a property called items which is an array of data to render
+- Accepts a property indicating what type of list this is (ordered, unordered, etc)
+- Accepts a property indicating what style of list (this is visual)
+- Generate the correct JSX and SASS to render the elements from items in proper semantic tags.
+- Write styles/sass modules designed to style your list correctly based on options sent in with props.
